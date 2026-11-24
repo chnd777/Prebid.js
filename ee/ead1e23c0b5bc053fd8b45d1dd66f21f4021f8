@@ -1,0 +1,44 @@
+test/spec/modules/inmobiVantageBidAdapter_spec.js
+  s_e177252e0c65af::t_9044639db57107 41-69
+  s_e177252e0c65af::t_8bdc7e71de59ff 190-191
+  s_e177252e0c65af::t_203107318b50ec 124,144-165
+  s_e177252e0c65af::t_54d3a38e719d4a 142-143
+  s_e177252e0c65af::t_5d01099b9c1788 98-113,115-123
+  s_e177252e0c65af::t_0988065396313b 136
+  s_e177252e0c65af::t_54e88e39a44290 862-863
+  s_e177252e0c65af::t_5aa64339895c97 200
+  s_e177252e0c65af::t_34ebcf9ee7ac73 909-910
+modules/inmobiVantageBidAdapter.js
+  s_e177252e0c65af::t_4e0417fcb8d848 19-20
+  s_e177252e0c65af::t_bd56b3456e4e80 159-164
+  s_e177252e0c65af::t_2c644bc6c5a729 174
+  s_e177252e0c65af::t_570597146fe0a9 232
+  s_e177252e0c65af::t_cce59bc8cf3211 69-70
+  s_e177252e0c65af::t_2ec79a9c9f9ae0 3-6
+  s_e177252e0c65af::t_74496000cde26e 22-28
+  s_e177252e0c65af::t_459f74bf30847f 88-91
+  s_e177252e0c65af::t_aee056575f6cc5 226-231,233-267,269-291,293,295-298
+  s_e177252e0c65af::t_f5b3c1659d76d5 1
+  s_e177252e0c65af::t_63aebcdb2f0f0c 21
+  s_e177252e0c65af::t_1ba0e4f732d3b6 109
+  s_e177252e0c65af::t_03f4337345dc2e 116
+  s_e177252e0c65af::t_e1f6c9609356bf 59-61
+modules/inmobiVantageBidAdapter.md
+  s_e177252e0c65af::t_f8c24d7ca71c8f 19-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "eeead1e23c0b5bc053fd8b45d1dd66f21f4021f8",
+  "prompts": {},
+  "sessions": {
+    "s_e177252e0c65af": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d4bf4235-dd71-42be-9ee7-9203815832ec",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Malla Poorna Chandu <chandumalla035@gmail.com>"
+    }
+  }
+}
