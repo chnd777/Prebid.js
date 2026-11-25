@@ -1,0 +1,28 @@
+integrationExamples/gpt/inmobiVantage_example.html
+  s_e177252e0c65af::t_14aa024c3cf45e 1-67
+modules/inmobiVantageBidAdapter.js
+  s_e177252e0c65af::t_f18d10eccea7cf 263
+  s_e177252e0c65af::t_3c76e90f526a5f 177
+test/spec/modules/inmobiVantageBidAdapter_spec.js
+  s_e177252e0c65af::t_219ab9c01a19d7 1148,1150-1157
+  s_e177252e0c65af::t_89361b89c8b196 1184
+  s_e177252e0c65af::t_db673cff5a919e 164
+modules/inmobiVantageBidAdapter.md
+  s_e177252e0c65af::t_35768363715baa 28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "336d26dd5f917de09528223665e1ce6534c99e40",
+  "prompts": {},
+  "sessions": {
+    "s_e177252e0c65af": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d4bf4235-dd71-42be-9ee7-9203815832ec",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Malla Poorna Chandu <chandumalla035@gmail.com>"
+    }
+  }
+}
