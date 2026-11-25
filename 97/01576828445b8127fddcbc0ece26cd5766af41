@@ -1,0 +1,40 @@
+test/spec/modules/inmobiVantageBidAdapter_spec.js
+  s_e177252e0c65af::t_20d6c9738da377 1115,1117-1118,1122-1123,1126-1128,1131-1133,1136-1140,1143-1145,1148-1151,1154-1155,1158-1163,1167-1170,1195-1197
+  s_e177252e0c65af::t_d1c8a9b71e6487 1173-1175,1178-1187,1190-1192
+  s_e177252e0c65af::t_e9cf8fc31b0eb6 164
+  s_e177252e0c65af::t_6674c70f4f33fa 1606-1652
+  s_e177252e0c65af::t_4a11925e3bd78a 17
+  s_e177252e0c65af::t_b7554c97d6e208 3
+modules/inmobiVantageBidAdapter.js
+  s_e177252e0c65af::t_aaebebbf077456 200-203
+  s_e177252e0c65af::t_9aacdfa8d5f445 282-285
+  s_e177252e0c65af::t_d43651a10d5d05 20-21
+  s_e177252e0c65af::t_9070537057e1f9 133-136
+  s_e177252e0c65af::t_ffea726ffaf8e9 112-117,125-126
+  s_e177252e0c65af::t_7fd8bc8c7c33fd 266-267,272
+  s_e177252e0c65af::t_713398d8f515ce 92-93
+  s_e177252e0c65af::t_36740486994f1b 39-47
+  s_e177252e0c65af::t_8cabcd97c14632 1
+  s_e177252e0c65af::t_680efda46cbfb8 169-170,173-176,178-181,186-199
+  s_e177252e0c65af::t_5c34099ffffaa4 177,182-185
+  s_e177252e0c65af::t_0f317cbf2c255c 7
+modules/inmobiVantageBidAdapter.md
+  s_e177252e0c65af::t_86d72b795eef8a 30-32
+  s_e177252e0c65af::t_6256eeb33ffbf2 24-29,33-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "9701576828445b8127fddcbc0ece26cd5766af41",
+  "prompts": {},
+  "sessions": {
+    "s_e177252e0c65af": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d4bf4235-dd71-42be-9ee7-9203815832ec",
+        "model": "unknown"
+      },
+      "human_author": "Malla Poorna Chandu <chandumalla035@gmail.com>"
+    }
+  }
+}
