@@ -1,0 +1,24 @@
+modules/inmobiVantageBidAdapter.d.ts
+  s_e177252e0c65af::t_8fabb6586c339a 1-20
+modules/inmobiVantageBidAdapter.js
+  s_e177252e0c65af::t_fc0cc8f6b356b6 211
+  s_e177252e0c65af::t_e97546ae03c831 225
+  s_e177252e0c65af::t_c258e577b82a9f 11-12
+  s_e177252e0c65af::t_4a2a116b93e17f 56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "a122892d5c94851b07751344decfea5fe0c0398e",
+  "prompts": {},
+  "sessions": {
+    "s_e177252e0c65af": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d4bf4235-dd71-42be-9ee7-9203815832ec",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Malla Poorna Chandu <chandumalla035@gmail.com>"
+    }
+  }
+}
